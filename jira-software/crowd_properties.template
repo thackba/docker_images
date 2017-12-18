@@ -1,0 +1,11 @@
+application.name                        %name%
+application.password                    %password%
+application.login.url                   %url%/crowd/console/
+
+crowd.server.url                        %url%/crowd/services/
+crowd.base.url                          %url%/crowd/
+
+session.isauthenticated                 session.isauthenticated
+session.tokenkey                        session.tokenkey
+session.validationinterval              2
+session.lastvalidation                  session.lastvalidation

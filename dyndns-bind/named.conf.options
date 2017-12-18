@@ -1,0 +1,13 @@
+options {
+    directory "/data/cache";
+    // forwarders {
+	//   0.0.0.0;
+	// };
+	auth-nxdomain no;
+    allow-transfer {
+      "none";
+    };
+	dnssec-validation auto;
+    listen-on { any; };
+	listen-on-v6 { any; };
+};

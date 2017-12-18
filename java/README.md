@@ -1,0 +1,1 @@
+This is a dockerized Oracle JDK with additional SSL certificates.

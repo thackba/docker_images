@@ -1,0 +1,11 @@
+{
+  "sites": {
+    "www.domain.name": {
+      "host": "www",
+      "zone": "domain.name",
+      "username": "username",
+      "password_salt": "76ebbe29495fd3ffae2a1ed9072a951643c68d77cfc12b12a219d646c29838f7078cc2eff03078484fb49777f62a3a195dfb50f9934a505e18e690c05925f246",
+      "password_key": "0bbc825a2f5e19002e7c1416e91edb5e02979d78d2a7fb5123dcdfdce082e8cc22745ba2105f0cc5cd0de0f871026140a3b193d0b3e120e6f9caf1617503c765"
+    }
+  }
+}
